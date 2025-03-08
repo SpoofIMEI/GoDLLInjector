@@ -2,7 +2,7 @@
 ### A simple DLL injector written in Golang.
 ## Installation
 ```
-git clone https://github.com/R00tendo/GoDLLInjector
+git clone https://github.com/SpoofIMEI/GoDLLInjector
 cd GoDLLInjector
 go build -o injector.exe main.go
 ```
